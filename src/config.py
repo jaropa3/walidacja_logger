@@ -1,0 +1,1 @@
+FILE_PATH = "~/DE-test/walidacja_danych/data/plik.csv"

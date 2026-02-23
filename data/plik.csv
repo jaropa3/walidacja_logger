@@ -1,0 +1,10 @@
+Data,Opis,Kwota
+2026-02-01,Faktura sprzedaży,1500
+2026-02-05,Faktura zakupu,500
+2026-02-10,Przelew bankowy,2000
+2026-03-01,Faktura sprzedaży,
+2026-04-05,Faktura zakupu,
+2026-05-10,Przelew bankowy,
+, Faktura sprzedaży,1500
+2026-02-05,Faktura zakupu,-500
+2026-02-10,Przelew bankowy,
