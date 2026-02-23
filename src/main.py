@@ -7,7 +7,7 @@ from logging_config import setup_logging
 
 setup_logging()
 logger = logging.getLogger()
-logger.info("Uruchomienie programu")
+logger.critical("Uruchomienie programu")
 
 #df_data_path = open_file()
 data = read_input(FILE_PATH)
